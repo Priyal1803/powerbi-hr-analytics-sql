@@ -6,9 +6,9 @@ This project is a Power BI dashboard designed to provide insights into employee 
 
 ## 📊 Dashboard Highlights
 
-- **Total Employees:** 1,413  
-- **Attrition Cases:** 229  
-- **Attrition Rate:** 16.2%  
+- **Total Employees:** 1,470
+- **Attrition Cases:** 237
+- **Attrition Rate:** 16.12%  
 - **Average Age:** 37  
 - **Average Salary:** 6.5K  
 - **Average Years in Company:** 7  
