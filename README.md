@@ -26,7 +26,8 @@ This project is a Power BI dashboard designed to provide insights into employee 
 - Slicer by Department (e.g., HR, R&D, Sales)
 
 ## 🖼️ Dashboard Preview
-![alt text](HR.png)
+<img width="1166" height="657" alt="HR" src="https://github.com/user-attachments/assets/2a2288cb-e153-4bb5-bb23-b46131dfa783" />
+
 
 
 ## 🧠 How to Use
